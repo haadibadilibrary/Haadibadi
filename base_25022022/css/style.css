@@ -62,13 +62,15 @@ a {
 body {
   line-height: 24px;
   font-size: 14px;
+  /* font-family: "montserrat"; */
   font-family: "Roboto", sans-serif;
   font-weight: normal;
   color: #777777;
 overflow-x: hidden;}
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Roboto", serif;
+  font-family:"Boogaloo",cursive ;
+  /* font-family: "Roboto", serif; */
   font-weight: bold; }
 
 button:focus {
@@ -100,12 +102,14 @@ button:focus {
   max-width: 680px;
   margin: 0px auto 75px; }
   .main_title h2 {
+    /* font-family: "montserrat"; */
     font-family: "Roboto", serif;
     font-size: 36px;
     color: #222222;
     margin-bottom: 12px; }
   .main_title p {
     font-size: 14px;
+    /* font-family: "montserrat"; */
     font-family: "Roboto", sans-serif;
     font-weight: normal;
     line-height: 24px;
@@ -131,7 +135,7 @@ button:focus {
     .header_area .navbar .nav .nav-item {
       margin-right: 45px; }
       .header_area .navbar .nav .nav-item .nav-link {
-        font: 500 12px/80px "Roboto", sans-serif;
+        font: 500 12px/80px "Roboto", sans-serif; 
         text-transform: uppercase;
         color: #222222;
         padding: 0px;
